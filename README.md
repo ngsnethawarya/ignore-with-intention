@@ -1,2 +1,5 @@
-# ignore-with-intention
-Learning when ignoring something is the right choice.
+Not every signal needs action.
+Some need monitoring.
+Some need context.
+
+Ignoring with intention is different from ignoring by accident
